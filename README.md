@@ -9,8 +9,12 @@ OpenCEX is a free and open source cryptocurrency exchange platform.<br>
 Developed by <a href="https://polygant.net" target="_blank">Polygant</a>.  
 
 <p align="center">
-<a href="https://a.65.109.204.172.sslip.io" target="_blank">Live demo</a> | <a href="https://polygant.notion.site/OpenCEX-Help-Center-8cf8c842bde947c3818a615a88ceef9c" target="_blank">OpenCEX documentation</a> | <a href="https://t.me/opencex" target="_blank">Telegram chat</a>
+<a href="https://polygant.notion.site/OpenCEX-Help-Center-8cf8c842bde947c3818a615a88ceef9c" target="_blank">OpenCEX documentation</a> | <a href="https://t.me/opencex" target="_blank">Telegram chat</a>
 </p>
+
+> [!CAUTION]
+> This repository has not been maintained since **2024**.  
+> The code is provided as-is.
 
 ## Main features.
 
@@ -98,44 +102,9 @@ You can open it by your domain name.
 -   [OpenCEX Help Center](https://www.notion.so/polygant/OpenCEX-Help-Center-8cf8c842bde947c3818a615a88ceef9c)
 -   [Admin panel Guide](https://docs.google.com/document/d/1VoBFEjzmGXzNHQYfvu8BYHvoSv9Sg73AV9wWGvsRJ04/edit#)
 
-## Partners & Sponsors ❤️
-Become a partner: [hello@polygant.net](mailto:hello@polygant.net)
-
-## Donate 💰
-You like our product and want to support the team? Nothing could be easier :)
-
-<table>
-<tr>
-<td><b>Bitcoin (BTC)</b></td>
-<td><b>USDT (TRC20)</b></td>
-<td><b>ETH, USDT, USDC (ERC20)</b></td>
-</tr>
-<tr>
-<td><img src="https://github.com/Polygant/OpenCEX/assets/119800471/60e3ac1a-ee66-473e-95d7-0c8adff9a5ae" width="250"></td>
-<td><img src="https://github.com/Polygant/OpenCEX/assets/119800471/79cb61c0-bea9-45f9-8f9f-15ff0076c0c8" width="250"></td>
-<td><img src="https://github.com/Polygant/OpenCEX/assets/119800471/5cf4e880-a33b-406e-926d-ed7a8bd9b910" width="250"></td>
-</tr>
-</table>
-
-BTC:
-**bc1qgdnah2uh49wgnlvpmpnf7jkwz6dm8teuf66ynt**
-
-USDT (TRC-20):
-**TShx7cEsDancuqU5PmVPCQ3bUMtZyiqQq2**
-
-ETH, USDT, USDC (ERC-20):
-**0x938209344aD987EFB91D7dc1F3957Ce3DD39b95**
-
-## Community
-Ask questions at the official community Telegram chat.
-
-## Contributing
-Thanks for all your wonderful PRs, issues and ideas.
-You’re always welcome to join: check out our contribution guides, open issues and the Telegram chat.
-
 ## Can I hire you guys?
 
-OpenCEX was created and backed by Polygant, and is supported through all the years. You can request a consultation or order web and mobile development services by Polygant, just visit our site. 😎
+You can request a consultation or order web and mobile development services by Polygant, just visit our site. 😎
 
 Say hi: [hello@polygant.net](mailto:hello@polygant.net) . We will be happy to work with you!
 
