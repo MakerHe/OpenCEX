@@ -1,0 +1,16 @@
+[submodule "admin"]
+	path = admin
+	url = ../OpenCEX-JS-admin.git
+	branch = dev
+[submodule "frontend"]
+	path = frontend
+	url = ../OpenCEX-frontend.git
+	branch = dev
+[submodule "nuxt"]
+	path = nuxt
+	url = ../OpenCEX-static.git
+	branch = dev
+[submodule "backend"]
+	path = backend
+	url = ../OpenCEX-backend.git
+	branch = dev
